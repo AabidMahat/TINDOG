@@ -189,3 +189,11 @@
         width: 35%;
     }
 }
+.links:hover{
+    /* opacity: 0.6; */
+    background: rgba(0,0,0, 0.05);
+}
+.fa-solid{
+    color: red;
+    padding: 10px 0px;
+}
